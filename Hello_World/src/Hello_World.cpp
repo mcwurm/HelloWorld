@@ -31,5 +31,6 @@ int main() {
 	std::cout << "!!!Hello World!!!" << std::endl; // prints !!!Hello World!!!
 	std::cout << myClass.getMyInt() << std::endl;
 
+	//Change 2//
 	return 0;
 }
